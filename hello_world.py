@@ -24,4 +24,6 @@ print(str + " my name is David Andrews")
 print(str + " my name is Zack Foreman")
 print(str + " my name is Gediminas Jakstonis")
 print(str + " my name is Ramy Shim")
+print(str + " my name is Khoa Hoang")
+
 
